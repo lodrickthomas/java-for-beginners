@@ -6,7 +6,7 @@ public class fizzBuzz {
 		for(int i = 1; i <= 100; i++) {
 			// A multiple of both
 			// '&&' means AND (both conditions have to be met) '||' means OR (one condition has to be met.)
-			if (((i % 5) == 0) && ((i % 7) == 0))
+			if (((i % 5) == 0) && ((i % 3) == 0))
 		        System.out.printf("\nfizzbuzz(%d)", i);    
 			
 				// multiple of 3
@@ -26,4 +26,4 @@ public class fizzBuzz {
 }
 
 // made the console a weird output to make it fit in the pic.
-// added the numbers to the end of fizz/buzz so you could see which is which better
+// added the numbers to the end of fizz/buzz so you could see which is which, better.
