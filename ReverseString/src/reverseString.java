@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class reverseString {
+public class ReverseString {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

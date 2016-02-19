@@ -1,5 +1,5 @@
 
-public class objects {
+public class Objects {
 
 	public static void main(String[] args) {
 		/* Create two objects using constructor */

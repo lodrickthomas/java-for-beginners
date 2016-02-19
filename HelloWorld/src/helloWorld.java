@@ -1,4 +1,4 @@
-public class helloWorld { 
+public class HelloWorld { 
 // class name
 	public static void main(String[] args) {
 	// main function, in easier terms, the program starts here. No other function will have main in it.

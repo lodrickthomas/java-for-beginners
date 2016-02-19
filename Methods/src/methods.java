@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class methods {
+public class Methods {
 	
 	// define method named sum with 2 parameters, a & b which are integers.
 	public static int sum(int a, int b){

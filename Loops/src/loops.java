@@ -1,5 +1,5 @@
 
-public class loops {
+public class Loops {
 
 	public static void main(String[] args) {
 		int x = 1;
@@ -49,8 +49,6 @@ public class loops {
 	    	System.out.println(red + " is equal to 10");
 	 	}
 	    
-	    // there is no way to make a switch statement read a range like in swift (the three dots, "...")
-	    // you would have to write a function, ill cover it in a post soon.
 	    System.out.println("\nswitch statement example:");
 	    String grade = "b";
 	    switch (grade) {
@@ -66,10 +64,7 @@ public class loops {
 	    default:
 	    	System.out.println("you failed");
 	        break;
-
-
 	    }
-
 	}
-	
 }
+

@@ -1,9 +1,8 @@
 
-public class fabonacci {
+public class Fabonacci {
 
 	public static void main(String[] args) {
 		// long because if not you will get weird formated numbers, try changing to int or double to see.
-        // it has to do with how many numbers a data type can hold. (https://en.wikibooks.org/wiki/Java_Programming/Primitive_Types)
 		long[] array = new long[50];
 		// we know 0 & 1 are the first two numbers, so we go from there.
 		array[0] = 0;

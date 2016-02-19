@@ -1,5 +1,5 @@
 import java.util.*;
-public class countVowels {
+public class CountVowels {
 
 	public static void main(String[] args) {
 		System.out.print("Type something: ");

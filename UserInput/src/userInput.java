@@ -1,6 +1,6 @@
 import java.util.*; // you must import java.util for scanner to work. you can use the one I do or java.util.Scanner to just import scanner
 
-public class userInput {
+public class UserInput {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
